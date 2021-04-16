@@ -412,13 +412,13 @@ $(document).ready(function(){
 		$("#gifCaption").hide();
 
 		$('#finalMessage').html(messages.finished);
-		$('#totalQuestions').html("Total questions: "+(parseInt(correctAnswer)+parseInt(incorrectAnswer)+parseInt(unanswered)));
-		$('#correctAnswers').html("Correct Answers: " + correctAnswer);
-		$('#incorrectAnswers').html("Incorrect Answers: " + incorrectAnswer);
-		$('#unanswered').html("Unanswered: " + unanswered);
+		$('#totalQuestions').html("Preguntas totales: "+(parseInt(correctAnswer)+parseInt(incorrectAnswer)+parseInt(unanswered)));
+		$('#correctAnswers').html("Correctas: " + correctAnswer);
+		$('#incorrectAnswers').html("Incorrectas: " + incorrectAnswer);
+		$('#unanswered').html("No respondidas: " + unanswered);
 		$('#startOverBtn').addClass('reset');
 		$('#startOverBtn').show();
-		$('#startOverBtn').html("PLAY AGAIN");
+		$('#startOverBtn').html("VUELVE A JUGAR");
 	}
 
 // MAIN PROCESS

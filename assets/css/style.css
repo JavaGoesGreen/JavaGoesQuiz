@@ -152,7 +152,7 @@ body {
     margin-top: 10px;
 }
 
-#correctAnswers, #incorrectAnswers, #unanswered {
+#correctAnswers, #incorrectAnswers, #unanswered, #totalQuestions {
     font-family: 'Press Start 2P', cursive;
     color: #ffffac;
     font-size: 150%;
