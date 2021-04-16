@@ -160,3 +160,17 @@ body {
     letter-spacing: 1px;
     line-height: 2;
 }
+
+#start {
+    font-family: 'Press Start 2P', cursive;
+    color: #ffffac;
+    letter-spacing: 1px;
+    line-height: 2;
+}
+select, input {
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(69, 152, 92);
+    letter-spacing: 1px;
+    padding: 10px;
+    text-align: center;
+}
