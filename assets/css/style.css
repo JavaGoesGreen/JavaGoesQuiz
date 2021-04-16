@@ -1,0 +1,162 @@
+/*Creating my own CSS Style for the game*/
+
+/*Styles that apply to the entire page*/
+body {
+    background-color: #81c48e;
+}
+
+/*JUMBOTRON*/
+.jumbotron {
+    background-image: url("../images/background.jpg");
+    margin-bottom: 30px;
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center ;
+    -webkit-background-size: cover;
+    background-size: cover;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    width: 100%
+}
+
+#gameRow {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#gameCol {
+    text-align: center;
+    border: 2px solid #ffffac;
+    border-radius: 5px;
+    padding: 30px;
+    min-height: 300px;
+    margin-bottom: 60px;
+}
+
+/*START BUTTON*/
+#startBtn {
+    background-color: #ffffac;
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(166, 201, 143);
+    border: 1px solid #000000;    
+    font-size: 200%;
+    letter-spacing: 2px;
+    padding: 20px 50px;
+    margin-top: 30px;
+}
+
+#startBtn:hover {
+    background-color: black;
+    color: #ffffac;
+    border: 1px solid #ffffac;    
+}
+
+#timeLeft {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 300%;
+    color: #ffffac;
+    letter-spacing: 20px;
+    font-weight: 500;
+}
+
+#currentQuestion {
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(69, 152, 92);
+    text-align: left;
+    font-size: 80%;
+    text-transform: uppercase;
+}
+
+.question {
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(69, 152, 92);
+    font-size: 140%;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.answerList {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    color: #32a26e;
+    font-size: 150%;
+    line-height: 2.5;
+    margin-bottom: 30px;
+}
+
+.thisChoice:hover {
+    background-color: #ffffac;
+    color: black;
+}
+
+
+#message {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    font-size: 125%;
+    margin-bottom: 10px;
+}
+
+#correctedAnswer {
+    font-family: 'Press Start 2P', cursive;
+    color: #ffffac;
+    font-size: 100%;
+    text-transform: uppercase;   
+}
+
+#gif {
+    margin-bottom: 20px;
+    margin-top: 20px; 
+}
+
+.gifImg {
+    max-height: 200px;
+    max-width: 320px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+}
+
+#gifCaption {
+    font-family: 'Press Start 2P', cursive;
+    color: #ffffac;
+
+}
+
+.reset {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #ffffac;
+    color: black;
+    border: 1px solid #000000;
+    font-size: 200%;
+    letter-spacing: 2px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.reset:hover {
+    background-color: black;
+    color: #ffffac;
+    border: 1px solid #ffffac;    
+}
+
+#finalMessage {
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    font-size: 200%;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+#correctAnswers, #incorrectAnswers, #unanswered {
+    font-family: 'Press Start 2P', cursive;
+    color: #ffffac;
+    font-size: 150%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 2;
+}
