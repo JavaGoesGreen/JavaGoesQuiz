@@ -75,7 +75,7 @@ $(document).ready(function(){
 						"50",
 						"20 a.c"],
 			answer: 1,
-			image: "assets/images/Q4_Jenna.gif",
+			image: "assets/images/giphy (3).gif",
 			answerText: "Como parte del emprendimiento social y de las tendencias globales más marcadas, encontramos el concepto “Tecnologías Verdes” que tiene su origen en el “Movimiento verde” mundial de los años 60’s"
 		},
 
@@ -86,7 +86,7 @@ $(document).ready(function(){
 						"Africa.",
 						"Argentina"],
 			answer: 0,
-			image: "assets/images/Q5_NBC.jpg",
+			image: "assets/images/giphy (3).gif",
 			answerText: "Hoy en día la tecnología verde se está desarrollando en toda Latinoamérica y en el continente Europeo"
 		},
 
@@ -97,7 +97,7 @@ $(document).ready(function(){
 						"Reducir",
 						"Calentamiento global"],
 			answer: 0,
-			image: "assets/images/Q6_Liz.gif",
+			image: "assets/images/giphy (3).gif",
 			answerText: "Ayuda a revertir los daños causados por el mal empleo de los recursos naturales por parte de hombre"
 		},
 
@@ -108,7 +108,7 @@ $(document).ready(function(){
 						"Nuevas Ideas Solares",
 						"Donald Trump"],
 			answer: 3,
-			image: "assets/images/Q7_Grizz.gif",
+			image: "assets/images/giphy (3).gif",
 			answerText: "La utilización de módulos fotovoltáicos y colectores térmicos para la recolección de energía del solar en forma de fotones, ya es bastante famoso."
 		},		
 
@@ -119,7 +119,7 @@ $(document).ready(function(){
 						"Un estilo de vida",
 						"Un conjunto de acciones"],
 			answer: 0,
-			image: "assets/images/Q8_OrangeKids.jpg",
+			image: "assets/images/giphy (3).gif",
 			answerText: "La sustentabilidad es en realidad “un proceso” que tiene por objetivo encontrar el equilibrio entre el medio ambiente y el uso de los recursos"
 		},		
 
@@ -130,7 +130,7 @@ $(document).ready(function(){
 						"Piensa en grande",
 						"Es amigable tanto como para tu empresa como para el planeta"],
 			answer: 4,
-			image: "assets/images/Q9_Food.gif",
+			image: "assets/images/giphy (3).gif",
 			answerText: "In the show's pilot, Liz is attempting to buy a hot dog before work. A fellow commuter tries to jump the line, then Liz buys $150 worth of hot dogs to make a point."
 		},		
 
@@ -141,7 +141,7 @@ $(document).ready(function(){
 						"recilas tus lagrimas",
 						"Ninguna de las anteriores"],
 			answer: 1,
-			image: "assets/images/Q10_MikeDexter.gif",
+			image: "assets/images/giphy (3).gif",
 			answerText: "Facilidades que favorecen la supervivencia del negocio mediante la administración responsable de los recursos naturales."
 		},		
 
